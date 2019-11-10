@@ -1,0 +1,25 @@
+{
+  "name": "starbucks-uoui",
+  "version": "0.1.0",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.26.0",
+    "lodash": "^4.17.15",
+    "nodemailer": "^6.3.1",
+    "vue": "^2.5.16",
+    "vue-mq": "^1.0.1",
+    "vue-pdf": "^4.0.7",
+    "vue-resize-text": "^0.1.0",
+    "vue-router": "^3.0.1",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.12.0",
+    "@vue/cli-service": "^3.12.0",
+    "vue-plugin-load-script": "^1.2.0",
+    "vue-template-compiler": "^2.5.16"
+  }
+}
